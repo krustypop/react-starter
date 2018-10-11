@@ -1,8 +1,11 @@
 
 <center>
 ![alt text](https://codemedialab.com/wp-content/uploads/2017/09/reactjsicon-150x150.png "React")
+            
 ![alt text](http://www.newthinktank.com/wp-content/uploads/2015/04/Sass-Tutorial.png "Sass")
+
 ![alt text](https://mehraban.com.au/img/posts/webpacklogo.png "Webpack")
+
 ![alt text](https://sdtimes.com/wp-content/uploads/2018/09/1_JsyV8lXMuTbRVLQ2FPYWAg-150x150.png "Typescript")
 </center>
 
