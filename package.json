@@ -1,8 +1,8 @@
 {
-  "name": "react-ui",
+  "name": "react-starter",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "WTFPL",
   "scripts": {
     "start": "NODE_ENV=development webpack-dev-server --mode development --config config/webpack.base.config.js --open --hot --history-api-fallback",
     "build:prod": "NODE_ENV=production webpack --mode production --config config/webpack.prod.config.js --progress"
