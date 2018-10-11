@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "sourceMap": true,
+    "typeRoots": [ "node_modules/@types/" ],
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "declaration": false,
+    "watch": true,
+    "jsx": "react",
+    "baseUrl": "",
+    "paths": {
+      "@styles/*": ["src/styles/*"],
+      "@assets/*": ["src/public/assets/*"]
+    }
+  },
+  "compileOnSave": true,
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    ".vscode",
+    "node_modules",
+    "dist",
+    "scripts"
+  ],
+  "lib": ["es6", "dom"]
+}

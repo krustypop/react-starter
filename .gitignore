@@ -1,0 +1,8 @@
+# vendors
+node_modules/
+
+# project yarn error log
+yarn-error.log
+
+# sensitive configuration
+.env
