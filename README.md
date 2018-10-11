@@ -1,10 +1,10 @@
 
-<center>
+<p align="center">
 <img src="https://codemedialab.com/wp-content/uploads/2017/09/reactjsicon-150x150.png" alt="React" />        
 <img src="http://www.newthinktank.com/wp-content/uploads/2015/04/Sass-Tutorial.png" alt="Sass" />
 <img src="https://mehraban.com.au/img/posts/webpacklogo.png"  alt="Webpack" />
 <img src="https://sdtimes.com/wp-content/uploads/2018/09/1_JsyV8lXMuTbRVLQ2FPYWAg-150x150.png" alt="Typescript" />
-</center>
+</p>
 
 ## Presentation
 
