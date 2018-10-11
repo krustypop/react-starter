@@ -1,5 +1,7 @@
 # vendors
 node_modules/
+dist/
+build/
 
 # project yarn error log
 yarn-error.log
