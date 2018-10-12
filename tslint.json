@@ -6,7 +6,7 @@
     ],
     "jsRules": {},
     "rules": {
-        "quotemark": [false, "single", "avoid-escape", "avoid-template"]
+        "quotemark": [true, "single", "jsx-double", "avoid-escape", "avoid-template"]
     },
     "rulesDirectory": []
 }
