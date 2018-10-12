@@ -8,5 +8,5 @@ import '@styles/style.scss';
 ReactDOM.render(
     <Hello compiler="TypeScript" framework="React" />
     ,
-    document.getElementById("root") as HTMLElement
+    document.getElementById("root") as HTMLElement,
 );
