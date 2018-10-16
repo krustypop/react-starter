@@ -80,7 +80,7 @@ Ready to eat !
 
 ## To take away
 
-To build it in order to deploy it, just run `yarn build:prod`
+To build it in order to deploy it, just run `yarn build`
 
 
 ## Patterns
