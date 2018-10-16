@@ -15,7 +15,7 @@ Indeed. I totally agree !
 Buuuuut, if you want to give it a chance to start a simple and lightweight React project, be my guest, I hope it will fit to your needs.
 
 
-## My motivation
+## Motivation
 
 I started to work on a React project which was already well advanced and I was frustrated to not understand very well how it was working so I decided to take time to build my simple project on my own to have a better comprehension of what I was doing and how every small bricks interacts with each other, from transpiling to building, passing through coding React component in Typescript.
 I have a strong experience in Angular 2+ so I took a few ideas that I was confortable with and see how I could put it all together in a React project.
