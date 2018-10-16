@@ -1,4 +1,4 @@
-
+[![CircleCI](https://circleci.com/gh/krustypop/react-starter.svg?style=svg)](https://circleci.com/gh/krustypop/react-starter)
 <p align="center">
 <img src="https://codemedialab.com/wp-content/uploads/2017/09/reactjsicon-150x150.png" alt="React" />        
 <img src="http://www.newthinktank.com/wp-content/uploads/2015/04/Sass-Tutorial.png" alt="Sass" />
