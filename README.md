@@ -72,7 +72,7 @@ In order to prepare this recipe in good conditions, you will first need to have 
 Just yarn it
 
 ```
-yarn install
+yarn && yarn start
 ```
 
 Ready to eat !
